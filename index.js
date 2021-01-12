@@ -1,3 +1,3 @@
 console.log("begining");
 
-require("./lessons/bcrypt/sample2");
+require("./lessons/jwt/sample7");
